@@ -13,7 +13,7 @@ void function()
   printf("HOla desde funcion");
 
 }
-void function2()
+void function()
 {
     printf("Esta es la funcion 2");
 }
