@@ -1,6 +1,7 @@
 #include<stdio.h>
 void function();
 void function2();
+void function3();
 int main()
 {
   printf("Hola mundo");
@@ -16,4 +17,8 @@ void function()
 void function()
 {
     printf("Esta es la funcion 2");
+}
+void function3()
+{
+  printf("Esta es la funcion3");
 }
